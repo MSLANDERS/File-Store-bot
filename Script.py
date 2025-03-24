@@ -4,7 +4,7 @@
 
 
 class script(object):
-    START_TXT = """<b>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ {} 👋,  ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.\n<blockquote><a href="https://t.me/MSLANDERS">ᗰՏᒪᗩᑎᗪEᖇՏ</a></blockquote></b>"""
+    START_TXT = """<b>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ {} 👋,  ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.\n<blockquote>🧑‍💻 Mᴀɪᴛᴀɪɴᴇᴅ Bʏ : <a href="https://t.me/MSLANDERS">ᗰՏᒪᗩᑎᗪEᖇՏ</a></blockquote></b>"""
 
     CAPTION = """<b>{file_caption}</b>""" 
 
@@ -26,14 +26,14 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    ABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
-
-🤖 ᴍʏ ɴᴀᴍᴇ: {}
-📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>PYTHON 3</a>
-📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>PYROGRAM</a>
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/mslanderstalk_bot>AMANI</a>
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/mslanders_help>MSLANDERS SUPPORT</a>
-📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/MSLANDERS>UPDATE CHANNEL</a></b>
+    ABOUT_TXT = """<b>ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.\n<blockquote>🧑‍💻 Mᴀɪᴛᴀɪɴᴇᴅ Bʏ : <a href="https://t.me/MSLANDERS">ᗰՏᒪᗩᑎᗪEᖇՏ</a></blockquote>
+    
+🤖 Mʏ Nᴀᴍᴇ: {}
+📝 Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>PYTHON 3</a>
+📚 Lɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>PYROGRAM</a>
+🧑🏻‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/mslanderstalk_bot>AMANI</a>
+👥 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ: <a href=https://t.me/mslanders_help>MSLANDERS SUPPORT</a>
+📢 Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ: <a href=https://t.me/MSLANDERS>UPDATE CHANNEL</a></b>
 """
 
     CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
